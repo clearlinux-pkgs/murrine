@@ -4,7 +4,7 @@
 #
 Name     : murrine
 Version  : 0.98.2
-Release  : 3
+Release  : 4
 URL      : http://ftp.gnome.org/pub/GNOME/sources/murrine/0.98/murrine-0.98.2.tar.xz
 Source0  : http://ftp.gnome.org/pub/GNOME/sources/murrine/0.98/murrine-0.98.2.tar.xz
 Summary  : Murrine GTK+ Theme Engine
